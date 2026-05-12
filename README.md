@@ -10,7 +10,8 @@
 
 ## 📋 Sumário Executivo
 
-Este relatório documenta os defeitos encontrados durante a execução de testes manuais no site **melissa.com.br**. Os testes cobriram áreas de navegação, busca, filtros, responsividade mobile e performance. Testes de checkout foram excluídos do escopo por envolverem simulação de compra real.
+Este relatório documenta os defeitos encontrados durante a execução de testes manuais no site **melissa.com.br**. Foram executados 94 testes, que cobriram as áreas de navegação, página de produtos busca, filtros, login e conta responsividade mobile e performance. Testes de checkout foram excluídos do escopo por envolverem simulação de compra real.
+Todos os casos de teste estão disponiveis na [planilha de testes](https://docs.google.com/spreadsheets/d/1K0Ubd2suB5Pse3-bkYWqtvorbG63uWMmwzRCcUpS4M0/edit?usp=sharing).
 
 | Métrica | Valor |
 |---|---|
