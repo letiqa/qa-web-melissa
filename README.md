@@ -162,5 +162,7 @@ O teste de performance realizado via Google Lighthouse retornou uma pontuação 
 ---
 
 *Relatório gerado para fins de portfólio — Testes executados manualmente, sem automação.*
-Entrei em contato com a equipe da Melissa e eles responderam agradecendo :) 
+---
+
+## *Entrei em contato com a equipe da Melissa e eles responderam agradecendo 😊*
 <img width="1085" height="478" alt="image" src="https://github.com/user-attachments/assets/e21d6a79-ee72-45cb-afff-2e4bc8173f21" />
